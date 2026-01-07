@@ -12,7 +12,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
 
-    steps:
+      steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
