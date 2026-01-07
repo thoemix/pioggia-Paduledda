@@ -35,4 +35,3 @@ jobs:
           git add pioggia.xlsx
           git commit -m "Aggiorna pioggia" || echo "Nessuna modifica"
           git push
-
